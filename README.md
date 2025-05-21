@@ -84,7 +84,6 @@ end)
 ```
 
 ## Preview's
-![Preview Screenshot](https://cdn.discordapp.com/attachments/1076128858224467998/1374741415040385084/15hlv.mp4?ex=682f2736&is=682dd5b6&hm=6e303809069d1416b7c4cbac715e8c15e5a0a77fe20332e5230f55588f16d2c5&)
 ![Preview Screenshot](https://cdn.discordapp.com/attachments/1076128858224467998/1374741394744279040/8b572a136ab37be493fdd0e636835e0093162ebd.jpeg?ex=682f2731&is=682dd5b1&hm=e9e7be3ae0a148263393a4d3e9fd143664ef90dd0940f25da8b753f6e5550503&)
 
 ## Discord
